@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.menu-item,
+ul,
+li,
+a{
+    list-style: none;
+    display: flex;
+    margin-left: 30%;
+    color: white;
+    
+}
+.img1{
+    height: 20px;
+    width: 18px;
+}
